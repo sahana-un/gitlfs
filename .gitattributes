@@ -1,1 +1,2 @@
 *ass1.txt filter=lfs diff=lfs merge=lfs -text
+*doc.txt filter=lfs diff=lfs merge=lfs -text
